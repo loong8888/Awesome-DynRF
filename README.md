@@ -338,8 +338,8 @@ which combines multiple patterns.
 ```
 
 
-# 📭 6. Contact
+# 📭 6. Other Resources
 
-```
-jfan@hdu.edu.cn
-```
+## Related Projects
+- awesome-NeRF:  https://github.com/awesome-NeRF/awesome-NeRF
+- awesome-3D-gaussian-splatting:  https://github.com/MrNeRF/awesome-3D-gaussian-splatting
