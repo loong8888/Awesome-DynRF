@@ -108,16 +108,14 @@ which combines multiple patterns.
 |----------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------|
 | 2020     | arXiv                  | [Differentiable rendering: A survey](https://arxiv.org/abs/2006.12057)                                                                            |          | Survey   |
 | 2020     | arXiv                  | [Neural volume rendering: Nerf and beyond](https://arxiv.org/abs/2101.05204)                                                                      |          | Survey   |
-| 2020     | arXiv                  | [Nerf: Neural radiance field in 3d vision, a comprehensive review](https://arxiv.org/abs/2210.00379)                                              |          | Survey   |
-| 2020     | arXiv                  | [BeyondPixels: A comprehensive review of the evolution of neural radiance fields](https://ui.adsabs.harvard.edu/abs/2023arXiv230603000S/abstract) |          | Survey   |
-| 2020     | arXiv                  | [Neural radiance fields: Past, present, and future](https://arxiv.org/abs/2304.10050)                                                             |          | Survey   |
-| 2020     | arXiv                  | [A survey on 3d gaussian splatting](https://arxiv.org/abs/2401.03890)                                                                             |          | Survey   |
-| 2020     | arXiv                  | [3d gaussian as a new vision era: A survey](https://ui.adsabs.harvard.edu/abs/2024arXiv240207181F/abstract)                                       |          | Survey   |
-| 2020     | arXiv                  | [Semantically-aware neural radiance fields for visual scene understanding: A comprehensive review](https://arxiv.org/abs/2402.11141)              |          | Survey   |
-| 2020     | arXiv                  | [Neural Radiance Field in Urban: A Survey](https://arxiv.org/abs/2404.13816)                                                                      |          | Survey   |
-| 2020     | arXiv                  | [How nerfs and 3d gaussian splatting are reshaping slam: A survey](https://fabiotosi92.github.io/files/survey-slam.pdf)                           |          | Survey   |
-| 2020     | arXiv                  | [NeRF in robotics: A survey](https://arxiv.org/abs/2405.01333)                                                                                    |          | Survey   |
-| 2020     | arXiv                  | [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)                                                                           |          | Survey   |
+| 2022     | arXiv                  | [Nerf: Neural radiance field in 3d vision, a comprehensive review](https://arxiv.org/abs/2210.00379)                                              |          | Survey   |
+| 2023     | arXiv                  | [BeyondPixels: A comprehensive review of the evolution of neural radiance fields](https://ui.adsabs.harvard.edu/abs/2023arXiv230603000S/abstract) |          | Survey   |
+| 2023     | arXiv                  | [Neural radiance fields: Past, present, and future](https://arxiv.org/abs/2304.10050)                                                             |          | Survey   |
+| 2024     | arXiv                  | [Semantically-aware neural radiance fields for visual scene understanding: A comprehensive review](https://arxiv.org/abs/2402.11141)              |          | Survey   |
+| 2024     | arXiv                  | [Neural radiance field in autonomous driving: A survey](https://arxiv.org/abs/2404.13816)                                                         |          | Survey   |
+| 2024     | arXiv                  | [How nerfs and 3d gaussian splatting are reshaping slam: A survey](https://fabiotosi92.github.io/files/survey-slam.pdf)                           |          | Survey   |
+| 2024     | arXiv                  | [NeRF in robotics: A survey](https://arxiv.org/abs/2405.01333)                                                                                    |          | Survey   |
+| 2024     | arXiv                  | [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)                                                                           |          | Survey   |
 
 ### 📄 4.1.2 Paper
 | **Year** | **Conference/Journal**     | **Paper**                                                                                                                                                                                                                                                                                      | **Code** | **Type** |
@@ -343,3 +341,8 @@ which combines multiple patterns.
 ## Related Projects
 - awesome-NeRF:  https://github.com/awesome-NeRF/awesome-NeRF
 - awesome-3D-gaussian-splatting:  https://github.com/MrNeRF/awesome-3D-gaussian-splatting
+
+## Tools
+- nerfstudio: https://github.com/nerfstudio-project/nerfstudio
+- gsplat: https://github.com/nerfstudio-project/gsplat
+- gaussian-splatting: https://github.com/graphdeco-inria/gaussian-splatting
