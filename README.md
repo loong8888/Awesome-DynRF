@@ -250,6 +250,7 @@ which combines multiple patterns.
 | 2023     | CVPR                   | [Suds: Scalable urban dynamic scenes](http://openaccess.thecvf.com/content/CVPR2023/html/Turki_SUDS_Scalable_Urban_Dynamic_Scenes_CVPR_2023_paper.html)                                                   | [Code](https://github.com/hturki/suds)                      | Urban          |
 | 2023     | ACM TOG                | [Neural volumes: Learning dynamic renderable volumes from images](https://arxiv.org/abs/1906.07751)                                                                                                       | [Code](https://github.com/facebookresearch/neuralvolumes)   | Object         |
 | 2022     | NeurIPS                | [Neural surface reconstruction of dynamic scenes with monocular rgbd camera](https://proceedings.neurips.cc/paper_files/paper/2022/hash/06a52a54c8ee03cd86771136bc91eb1f-Abstract-Conference.html)        | [Code](https://ustc3dv.github.io/ndr/)                      | Object         |
+| 2026     | Arxiv                | [HYBRID 3D-4D GAUSSIAN SPLATTING FOR FAST DY-NAMIC SCENE REPRESENTATION](https://openreview.net/pdf/476a2f0d23b79cf7a8660acfa2936e2ea65ce40d.pdf)        |                       | General Motion         |
 
 
 ### 📄 4.4.2 Canonical Space with Deformation Field-Paper
